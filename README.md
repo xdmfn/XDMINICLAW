@@ -31,6 +31,7 @@
   <img src="./image/2.jpg" width="32%">
   <img src="./image/3.jpg" width="32%">
 </div>
+<img src="image/4.png">
 
 XDMINICLAW（小小豆）是一个运行在 QQ 上的智能助手机器人，基于 QQ 开放平台官方 WebSocket 接口接入，由 Spring Boot + Spring AI Alibaba 驱动，底层大模型使用阿里云通义千问系列。
 
